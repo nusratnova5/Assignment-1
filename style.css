@@ -1,0 +1,121 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.text-1 {
+    text-align: center;
+    color: white;
+    padding: 150px;
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    border: 0px;
+
+}
+
+button {
+    font-size: 16px;
+    background-color: red;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+#donate {
+    text-align: center;
+    padding: 80px;
+    padding-bottom: 0px;
+    font-size: 45px;
+}
+
+#dolor {
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.design {
+    margin: 30px;
+    padding: 20px;
+    background-color: rgb(240, 240, 240);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#exception {
+    margin: 30px;
+    padding: 20px;
+    background-color: rgb(226, 160, 160);
+    font-size: 20px;
+    font-weight: bold;
+    border: 5px solid rgb(200, 102, 102);
+}
+
+h3 {
+    text-align: center;
+    color: gray;
+}
+
+hr {
+    width: 50%;
+}
+
+.third-part {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 0%;
+
+}
+
+#plan {
+    font-size: 45px;
+}
+
+.food {
+    background-color: antiquewhite;
+    text-align: left;
+    width: 15%;
+    margin: 30px;
+    padding: 5px;
+}
+
+.shelter {
+    background-color: rgb(191, 191, 191);
+    text-align: left;
+    width: 15%;
+    margin: 30px;
+    padding: 5px;
+}
+
+.education {
+    background-color: azure;
+    text-align: left;
+    width: 15%;
+    margin: 30px;
+    padding: 5px;
+}
+
+.footer {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    padding: 2%;
+}
+
+#humble {
+    color: brown;
+    padding: 0%;
+}
+
+#do {
+    color: white;
+}
