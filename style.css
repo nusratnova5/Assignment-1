@@ -119,3 +119,23 @@ hr {
 #do {
     color: white;
 }
+
+.idea {
+    text-align: center;
+    background-color: aquamarine;
+    margin: 90px;
+}
+
+.mail-text {
+    text-align: center;
+    padding-top: 0px;
+    padding: 20px;
+    background-color: rgb(206, 193, 218);
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 90px;
+}
+
+.final {
+    text-align: center;
+}
